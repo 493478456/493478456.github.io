@@ -1,0 +1,124 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Julius+Sans+One|Lobster');
+
+
+
+
+
+div h1{font-family:'Lobster',sans-serif;}
+body h2,body h3{font-family:'Julius Sans One',sans-serif;}
+
+body{
+margin: 2em 10em 2em 10em;
+}
+
+
+li{display:inline;padding:1em;}
+
+*{box-sizing:border-box;}
+
+figure{float:left;
+position:relative;}
+
+div.entry{
+overflow:auto;}
+
+
+
+
+
+div.sp{
+text-align:center;
+margin:10px;
+border:1px solid gray;
+padding:10px;
+height:auto;
+width:auto;
+float:left;}
+
+div.side{
+width:50px;
+text-align:center;
+margin:8px;
+border:1px solid gray;
+padding:3px;
+height:auto;
+width:auto;
+float:left;
+}
+
+h1 { 
+float:left;
+font-size: 3em; 
+font-weight: bold; 
+margin-top: 0;
+}
+
+div form{
+float:right;
+}
+
+div#topHeaderRow {
+   font-size: 0.9em;
+   padding:1em;
+}
+
+div#mainNavigationRow{
+clear:left;
+background-color:black;
+}
+
+.price { 
+
+}
+
+.similarTitle {  
+}
+
+.cartText { 
+
+}
+
+footer {
+margin-top: 1em;
+background-color: #E7E7E7;
+}
+
+.tight-form-group {  
+}
+
+#topHeaderRow,#copyrightRow { 
+background-color: #3A3A3A; 
+color:white;
+padding:0.5em;
+}
+
+
+
+
+--------------------------------------------------------
+
+.dropdown {
+    position: relative;
+    display: inline;
+
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+

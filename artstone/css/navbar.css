@@ -1,0 +1,27 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+.jumbotron{background-image:url('../images/whistler.jpg')}
+
+#topHeaderRow li{display:inline;padding:1em;}
+
+#topHeaderRow { 
+background-color: #3A3A3A; 
+color:white;
+font-size: 0.9em;
+   padding:1em;
+margin-top:0em;
+}
+
+h1 { 
+float:left;
+font-size: 3em; 
+font-weight: bold; 
+}
+
+#logoRow{margin:3em;}
